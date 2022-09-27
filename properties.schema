@@ -26,10 +26,10 @@
       "type": "string",
       "required": false,
       "default": "",
-      "title": "Intrucciones",
+      "title": "Instrucciones",
       "inputType": "Text",
       "validators": [],
-      "help": "Intrucciones que se mostrarán para este componente.",
+      "help": "Instrucciones que se mostrarán para este componente.",
       "translatable": true
     }
   }
